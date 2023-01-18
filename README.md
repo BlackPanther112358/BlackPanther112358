@@ -6,7 +6,7 @@
 - You can also find me on [Codeforces](https://codeforces.com/profile/BlackPanther112358) or [Kaggle](https://www.kaggle.com/blackpanther112358)
 
 <p align = "center">
-<img src="https://api.githubtrends.io/user/svg/BlackPanther112358/repos?time_range=one_year&group=other&theme=classic">
+<img src="https://api.githubtrends.io/user/svg/BlackPanther112358/repos?time_range=one_year&group=other&theme=dark">
 </p>
 
 <!-- <p align="center">
